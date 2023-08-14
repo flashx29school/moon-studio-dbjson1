@@ -1,0 +1,109 @@
+{
+  "services": {
+    "en": [
+      {
+        "title": "Brows",
+        "description": "A technique where a brow artist applies a chemical solution to soften follicles, then reshapes for a refined, lifted look.",
+        "img": "eyebrows.jpg"
+      },
+      {
+        "title": "Lashes",
+        "description": "This procedure curls lashes from base to tip, revealing full length. Using rods, pads, and a lifting solution, the natural lash shape is gently altered.",
+        "img": "brows.jpeg"
+      },
+      {
+        "title": "Laser Hair Removal",
+        "description": "Minimally invasive for sensitive skin, effective on all parts. Features skin-cooling tech, alleviating ingrown hair issues, even in deeper tones.",
+        "img": "laser-hair-removal.jpeg"
+      },
+      {
+        "title": "Laser Tattoo Removal",
+        "description": "Pico laser removes tattoos, breaking down ink with energy, allowing natural clearing. Effective for all tattoo sizes.",
+        "img": "tatto-removal.jpeg"
+      }
+    ],
+    "ro": [
+      {
+        "title": "SPRÂNCENE",
+        "description": "O tehnică în care un artist de sprâncene aplică o soluție chimică pentru a înmuia foliculii, apoi le rearanjează pentru un aspect rafinat și ridicat.",
+        "img": "eyebrows.jpg"
+      },
+      {
+        "title": "GENE",
+        "description": "Procedeu încolăcește genele de la bază la vârf, dezvăluind întreaga lungime. Utilizând rulouri, protecții și o soluție de ridicare, forma naturală a genelor este ușor modificată.",
+        "img": "brows.jpeg"
+      },
+      {
+        "title": "EPILARE PERMANENTĂ",
+        "description": "Metodă minim invazivă pentru pielea sensibilă, eficientă pe toate părțile corpului. Include tehnologie de răcire a pielii, ameliorând problemele firelor de păr crescute în piele.",
+        "img": "laser-hair-removal.jpeg"
+      },
+      {
+        "title": "ÎNDEPĂRTARE TATUAJE",
+        "description": "Laserul Pico îndepărtează tatuajele, fragmentând cerneala cu energie și permitând eliminarea naturală. Eficient pentru toate dimensiunile de tatuaje.",
+        "img": "tatto-removal.jpeg"
+      }
+    ]
+  },
+  "services-page": {
+    "en": [
+      {
+        "title": "Brows",
+        "description": "Brow lamination is essentially a <i>brow hair texturizing treatment</i>. It refers to a process in which a brow artist <i>softens the hair follicle</i> using a chemical solution and then <i>re-shapes or sets it into a more refined, lifted, smoother shape</i>. The result? Perfect brushed up brows that give a fuller, more uniform and defined look.",
+        "img": "eyebrows.jpg"
+      },
+      {
+        "title": "Lashes",
+        "description": "A lash lift <i>curls your lash</i> from base to tip so that you can see the full length. Lashes have a natural shape to them, so this process alters that shape via using lash rods and pads curved or straight depending on the lashes and a lifting solution. <b>It’s not as scary as it sounds, as your eyes are closed as it’s applied.</b>",
+        "img": "brows.jpeg"
+      },
+      {
+        "title": "Lips",
+        "description": "Lip blushing is a semi-permanent tattoo that can enhance the color and shape of your lips and give the impression of more fullness. This is done by depositing color ink into your lips and along your lip line to improve the overall look. The color is subtle to give natural-looking results.",
+        "img": "lips.jpeg"
+      },
+      {
+        "title": "Facials",
+        "description": "This customized treatment fights the visible signs of aging and is the pinnacle of luxury. Inhale transformative aromas, as you begin your journey with uniquely relaxing and remodeling face massage. You will then be treated to a deep exfoliation, which leaves your skin with a radiant glow and a silky-smooth texture. Luxurious masks and an oxygen infusion are weaved throughout your facial to purify and hydrate your skin for optimal skin health, clarity and hydration.",
+        "img": "carbon-facial.jpeg"
+      },
+      {
+        "title": "Laser Hair Removal",
+        "description": "This type of hair removal is one of the most popular, minimally invasive, cosmetic treatments. Designed with sensitive skin in mind, our Laser Hair Removal technology is safe enough to be used on any part of the body and target different skin types whilst ensuring maximum results. All of our lasers feature a unique dynamic cooling device that helps to calm, soothe and protect the skin. Not only does laser hair removal help remove unwanted hair, but it also can help with other issues like ingrown hairs, which are prone to causing hyperpigmentation, especially in deep skin tones.",
+        "img": "laser-hair-removal.jpeg"
+      },
+      {
+        "title": "Laser Tattoo Removal",
+        "description": "Pico laser removal works through the use of concentrated energy, breaking up pigmentation or tattoo ink to deliver fast-acting results. The laser's beam works with your body, breaking up ink particles and allowing your immune system to naturally clear them from your skin. We can remove tattoos of all shapes and sizes.",
+        "img": "tatto-removal.jpeg"
+      }
+    ],
+    "ro": [
+      {
+        "title": "Sprâncene",
+        "description": "Laminația sprâncenelor este, în esență, un tratament de texturizare a firelor de sprâncene. Acesta se referă la un proces în care un artist de sprâncene îmblânzește foliculul de păr folosind o soluție chimică și apoi îl reconfigurează sau îl pune într-o formă mai rafinată, ridicată și netedă. Rezultatul? Sprâncene perfect aranjate care oferă un aspect mai plin, mai uniform și definit.",
+        "img": "eyebrows.jpg"
+      },
+      {
+        "title": "Gene",
+        "description": "Un lifting pentru gene încolăcește genele de la bază la vârf, astfel încât să poți vedea întreaga lungime. Genele au o formă naturală, deci acest proces schimbă această formă prin utilizarea de rulouri pentru gene și protecții curbate sau drepte în funcție de gene și o soluție de ridicare. Nu este la fel de înspăimântător pe cât sună, deoarece ochii tăi sunt închiși în timpul aplicării.",
+        "img": "brows.jpeg"
+      },
+      {
+        "title": "Buze",
+        "description": "Buzele vopsite reprezintă o tatuare semi-permanentă care poate îmbunătăți culoarea și forma buzelor, dând impresia de volum. Acest lucru se realizează prin injectarea de cerneală colorată în buze și de-a lungul liniei buzelor pentru a îmbunătăți aspectul general. Culoarea este subtilă pentru a oferi rezultate naturale.",
+        "img": "lips.jpeg"
+      },
+      {
+        "title": "Faciale",
+        "description": "Acest tratament personalizat luptă împotriva semnelor vizibile ale îmbătrânirii și reprezintă apogeul luxului. Inspiră arome transformatoare pe măsură ce începi călătoria cu un masaj facial unic, relaxant și remodelant. Veți beneficia apoi de o exfoliere profundă, care lasă pielea cu o strălucire radianta și o textură mătăsoasă. Măștile luxuriante și infuzia de oxigen sunt împletite în întregul tratament facial pentru a purifica și hidrata pielea în vederea unei sănătăți optime, claritate și hidratare.",
+        "img": "carbon-facial.jpeg"
+      },
+      {
+        "title": "Îndepărtare Laser a Părului",
+        "description": "Îndepărtarea cu laser Pico funcționează prin utilizarea de energie concentrată, fragmentând pigmentarea sau cerneala din tatuaj pentru rezultate rapide. Fasciculul laser acționează împreună cu corpul tău, fragmentând particulele de cerneală și permitând sistemului tău imunitar să le elimine natural din piele. Putem îndepărta tatuaje de toate forme și dimensiuni.",
+        "img": "tatto-removal.jpeg"
+      }
+    ]
+  }
+}
