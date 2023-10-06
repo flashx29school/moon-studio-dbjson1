@@ -101,12 +101,12 @@
       },
       {
         "title": "Îndepărtare Laser a Părului",
-        "description": "Îndepărtarea cu laser Pico funcționează prin utilizarea de energie concentrată, fragmentând pigmentarea sau cerneala din tatuaj pentru rezultate rapide. Fasciculul laser acționează împreună cu corpul tău, fragmentând particulele de cerneală și permitând sistemului tău imunitar să le elimine natural din piele. Putem îndepărta tatuaje de toate forme și dimensiuni.",
+        "description": "Acest tip de îndepărtare a părului este unul dintre cele mai populare tratamente cosmetice, minim invazive. Proiectată având în vedere pielea sensibilă, tehnologia noastră de îndepărtare a părului cu laser este suficient de sigură pentru a fi utilizată pe orice parte a corpului și pentru a viza diferite tipuri de piele, asigurând în același timp rezultate maxime. Toate laserurile noastre includ un dispozitiv unic de răcire dinamic care ajută la calmarea, ameliorarea și protejarea pielii. Îndepărtarea părului cu laser nu ajută doar la eliminarea părului nedorit, ci poate ajuta și la alte probleme, precum firele de păr crescute sub piele, care au tendința de a cauza hiperpigmentare, în special în cazul tonurilor de piele închise.",
         "img": "laser-hair-removal.jpeg"
       },
       {
-        "title": "Îndepărtarea Tatuajelor cu Laser",
-        "description": "Îndepărtarea cu laser Pico funcționează prin utilizarea de energie concentrată, fragmentând pigmenții sau cerneala de tatuaj pentru a obține rezultate rapide. Fascicul laserului acționează împreună cu corpul tău, fragmentând particulele de cerneală și permitând sistemului tău imunitar să le elimine natural din piele. Putem îndepărta tatuaje de toate forme și dimensiuni.",
+        "titlu": "Îndepărtarea Tatuajelor cu Laser Pico",
+        "descriere": "Îndepărtarea cu laser Pico funcționează prin utilizarea de energie concentrată, fragmentând pigmenții sau cerneala de tatuaj pentru a obține rezultate rapide. Fascicul laserului acționează împreună cu corpul tău, fragmentând particulele de cerneală și permitând sistemului tău imunitar să le elimine natural din piele. Putem îndepărta tatuaje de toate forme și dimensiuni.",
         "img": "tatto-removal.jpeg"
       }
     ]
